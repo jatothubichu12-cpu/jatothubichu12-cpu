@@ -2,7 +2,7 @@
 
 ### 🚀 *Full Stack Developer*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&width=435&lines=Loving+Java%2C+Python%2C+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E75B6&width=500&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Loving+Python%2C+Java%2C+React;Building+Intelligent+Systems;Cybersecurity+AI+Enthusiast)](https://git.io/typing-svg)
 ---
 
 ## 🌐 Socials:
