@@ -57,8 +57,7 @@
 ## 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jatothubichu12-cpu&theme=tokyonight&no-frame=false&column=6"/>
-  
-</p>
+  </p>
 
 <!-- Areas of Interest -->
 
