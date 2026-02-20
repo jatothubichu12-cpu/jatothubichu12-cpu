@@ -1,16 +1,6 @@
 <div align="center">
-<div align="center">
-
-<img src="https://github.com/jatothubichu12-cpu/jatothubichu12-cpu/blob/main/WhatsApp%20Image%202026-02-21%20at%2000.42.38.jpeg?raw=true" width="150" height="150"/>
 
 # 👋 Hi, I'm Jatothu Bichu
-
-</div>
-
-</div>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Jatothu%20Bichu&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Cybersecurity%20AI%20%7C%20Deep%20Learning&descAlignY=55&descSize=18&animation=fadeIn"/>
-</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;Reinforcement+Learning+Specialist+%F0%9F%8E%AF;Cybersecurity+AI+Enthusiast+%F0%9F%94%90;Building+Intelligent+Systems+%E2%9A%A1;Python+%7C+Java+%7C+Deep+Learning" alt="Typing SVG"/>
