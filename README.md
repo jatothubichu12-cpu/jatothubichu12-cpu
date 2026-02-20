@@ -1,4 +1,24 @@
 <div align="center">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=120&section=footer"/>
+</div>
+```
+
+---
+
+## How to Add It
+
+Just paste the **header code at the very top** of your README.md (before everything else), and the footer code at the **very bottom**.
+
+Your README will then look like:
+```
+┌─ Wave Banner with Name & Title ──────────────┐
+│  👋 Hi I'm Jatothu Bichu                     │
+│  AI & ML Engineer | Cybersecurity AI         │
+└──────────────────────────────────────────────┘
+  ... rest of your profile ...
+┌─ Wave Footer ────────────────────────────────┐
+└──────────────────────────────────────────────┘
 
 # 👋 Hi, I'm Jatothu Bichu
 <div align="center">
