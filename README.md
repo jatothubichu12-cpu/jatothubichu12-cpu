@@ -44,18 +44,17 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jatothubichu12-cpu&theme=tokyonight&no-frame=false&column=6"/>
-  
-</p>
-<p>
-  ## 🔍 Areas of Interest:
+## 🔍 Areas of Interest:
 - 🤖 Reinforcement Learning & Deep Learning
 - 🔐 Cybersecurity AI & Threat Detection
 - 💬 Natural Language Processing (NLP)
 - 📊 Data Science & Predictive Modelling
 - 🌐 Full Stack Web Development
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jatothubichu12-cpu&theme=tokyonight&no-frame=false&column=6"/>
+  
 </p>
 
 <!-- Areas of Interest -->
