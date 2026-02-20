@@ -44,6 +44,11 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jatothubichu12-cpu&theme=tokyonight&no-frame=false&column=6"/>
+</p>
+
 <!-- Areas of Interest -->
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-%230075A8.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-%234B0082.svg?style=for-the-badge&logo=ai&logoColor=white)
