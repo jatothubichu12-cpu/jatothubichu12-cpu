@@ -47,15 +47,19 @@
 ## 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jatothubichu12-cpu&theme=tokyonight&no-frame=false&column=6"/>
+  
 </p>
-
-<!-- Areas of Interest -->
-## 🔍 Areas of Interest:
+<p>
+  ## 🔍 Areas of Interest:
 - 🤖 Reinforcement Learning & Deep Learning
 - 🔐 Cybersecurity AI & Threat Detection
 - 💬 Natural Language Processing (NLP)
 - 📊 Data Science & Predictive Modelling
 - 🌐 Full Stack Web Development
+</p>p
+
+<!-- Areas of Interest -->
+
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement%20Learning-%230075A8.svg?style=for-the-badge&logo=openai&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-%234B0082.svg?style=for-the-badge&logo=ai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%23FF0000.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
