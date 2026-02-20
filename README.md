@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [JATOTHU BICHU]
+# 👋 Hi, I'm JATOTHU BICHU
 
 ### 🚀 *Full Stack Developer*
 
