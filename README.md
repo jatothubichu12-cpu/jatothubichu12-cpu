@@ -1,10 +1,11 @@
 <div align="center">
- 👋 Hi, I'm Jatothu Bichu
- <div align="center">
+<div align="center">
 
 <img src="https://github.com/jatothubichu12-cpu/jatothubichu12-cpu/blob/main/WhatsApp%20Image%202026-02-21%20at%2000.42.38.jpeg?raw=true" width="150" height="150"/>
 
 # 👋 Hi, I'm Jatothu Bichu
+
+</div>
 
 </div>
 <div align="center">
