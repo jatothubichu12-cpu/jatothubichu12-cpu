@@ -1,5 +1,12 @@
 <div align="center">
  👋 Hi, I'm Jatothu Bichu
+ <div align="center">
+
+<img src="https://github.com/jatothubichu12-cpu/jatothubichu12-cpu/blob/main/WhatsApp%20Image%202026-02-21%20at%2000.42.38.jpeg?raw=true" width="150" height="150"/>
+
+# 👋 Hi, I'm Jatothu Bichu
+
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=200&section=header&text=Jatothu%20Bichu&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20%7C%20Cybersecurity%20AI%20%7C%20Deep%20Learning&descAlignY=55&descSize=18&animation=fadeIn"/>
 </div>
