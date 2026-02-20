@@ -56,7 +56,7 @@
 - 💬 Natural Language Processing (NLP)
 - 📊 Data Science & Predictive Modelling
 - 🌐 Full Stack Web Development
-</p>p
+</p>
 
 <!-- Areas of Interest -->
 
